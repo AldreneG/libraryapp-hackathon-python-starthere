@@ -54,6 +54,7 @@ p.tag-words {
   font-size: 30px;
   line-height: 40px;
   color:rgb(75,4,169,1);    
+  text-transform: uppercase;
 }
 
 .strapline {
@@ -63,12 +64,9 @@ p.tag-words {
 form#searchform {
     margin-top: 25px;}
 
-
-
-
-
-
-
-
-
+.linestyle {
+  color: #fdac00;
+  margin: 0;
+  border-top: 7px solid;
+}
 
